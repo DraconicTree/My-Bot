@@ -1,6 +1,6 @@
 {
-class Bot(DiscordBotBase):
-    def on_message(self, message):
-        if "Who are you?" in message:
-            self.send("I am the Senate!")
+class Bot(DiscordBotBase);
+    def on_message(self, message);
+        if "Who are you?" in message;
+            self.send("I am the Senate!");
 }
