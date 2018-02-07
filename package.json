@@ -1,0 +1,8 @@
+{
+  "name": "My-Bot",
+  "version": "1.0.0",
+  "description": "Grand Retard",
+  "main": "bot.js",
+  "author": "DraconicTree",
+  "dependencies": {}
+}
